@@ -1,0 +1,44 @@
+{
+    "name": "TestControl",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "b122da7e-9fc3-4dd9-ab19-3353878b31d0",
+            "actions": [
+                {
+                    "name": "GunLeft",
+                    "type": "Button",
+                    "id": "a85e061e-260f-4d6f-ba39-bb3fc6d8dc07",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4be75ee0-e93a-4a40-8ab7-303541c82c31",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GunLeft",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "List1",
+            "bindingGroup": "List1",
+            "devices": []
+        },
+        {
+            "name": "List2",
+            "bindingGroup": "List2",
+            "devices": []
+        }
+    ]
+}
